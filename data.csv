@@ -1,0 +1,7 @@
+tlsSubject,tlsIssuerDn,tlsSni
+"CN=settings-win.data.microsoft.com,OU=WSE,O=Microsoft,L=Redmond,ST=WA,C=US","CN=Microsoft Secure Server CA 2011,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US",
+,,
+"CN=storage.live.com,OU=Microsoft Corporation,O=Microsoft Corporation,L=Redmond,ST=WA,C=US","CN=Microsoft RSA TLS CA 01,O=Microsoft Corporation,C=US",diufxw.sn.files.1drv.com
+CN=www.paypalobjects.com,"O=mitmproxy,CN=mitmproxy",www.paypalobjects.com
+CN=*.facebook.com,"O=mitmproxy,CN=mitmproxy",www.facebook.com
+CN=20.190.160.129,"O=mitmproxy,CN=mitmproxy",login.live.com

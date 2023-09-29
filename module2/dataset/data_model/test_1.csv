@@ -1,0 +1,2 @@
+srcAddress,srcPort,destAddress,destPort,appProtocol,tlsSubject,tlsIssuerDn,tlsSni,tlsVersion,bytesOut,bytesIn,pktsIn,pktsOut,eventId
+172.16.108.102,49821,10.138.85.124,443,tls,CN=20.190.160.129,"O=mitmproxy,CN=mitmproxy",login.live.com,TLS 1.2,1527,560,2,2,0001014f-54e2-4b87-aa73-4bf0eb604022
