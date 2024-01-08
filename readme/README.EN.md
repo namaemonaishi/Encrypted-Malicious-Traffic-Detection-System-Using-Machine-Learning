@@ -136,7 +136,7 @@ GBDT Model
 
 
 
-![img](./pic/pic7.png)
+![img](./pic/pic7.PNG)
 
 ## Principle and Replacement of Kernel Detection Module
 
@@ -161,7 +161,7 @@ GBDT Model
    
    
    
-   ![img](./pic/pic2.jpg)
+   ![img](./pic/pic2.JPG)
    
    
    
