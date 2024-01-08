@@ -37,7 +37,7 @@ The bolded section indicates that using that version is mandatory, while the non
 
 5. The program prints the detection results of each module and the extracted data features as shown in the following figure.
 
-![img](./pic/pic5.png)
+![img](.\pic\pic5.png)
 
 ![img](./pic/pic6.png)
 
